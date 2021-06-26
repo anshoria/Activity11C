@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821617846702",
+    "project_id": "activity11c",
+    "storage_bucket": "activity11c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821617846702:android:9b9b149a9caf09da96003f",
+        "android_client_info": {
+          "package_name": "com.example.fbkelasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821617846702-hain61u20srdooucl1ins0fefvt6mts1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-Zz3V47HcdXg_SZ06XekVw0IlrYe6jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821617846702-hain61u20srdooucl1ins0fefvt6mts1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
